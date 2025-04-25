@@ -3,7 +3,7 @@ Video Stream Pro is a modern, cloud-based video streaming platform built using R
 
 Developed as a part of a B.Tech minor project: "System Design of a Cloud-Based Video Streaming Platform" at SRM IST, Tamil Nadu.
 
-🔧 Tech Stack
+Tech Stack
 Frontend: React, TypeScript, Vite
 
 Styling: Tailwind CSS
